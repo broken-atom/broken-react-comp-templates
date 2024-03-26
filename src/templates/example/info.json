@@ -1,0 +1,15 @@
+{
+    "name": "example",
+    "version": "1.0.0",
+    "icon": "<svg>...</svg>",
+    "description": "This is an example component",
+    "scope": [],
+    "dependencies": {
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    },
+    "devDependencies": {
+        "typescript": "^5.2.2",
+        "@types/react": "^18.0.0"
+    }
+}
